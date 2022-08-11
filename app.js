@@ -84,6 +84,7 @@ app.listen(process.env.PORT || 3000, function () {
   console.log("Heroku Server now listening");
 });
 
+//**********JUNKS*************************** */
 // const jsonData = JSON.stringify(data);
 // // const url = "https://<dc>.api.mailchimp.com/3.0/9dedde677d";
 // const url = "https://us12.api.mailchimp.com/3.0/lists/9dedde677d";
