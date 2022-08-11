@@ -46,7 +46,7 @@ app.get("/", function (req, res) {
 
     const options = {
       method: "POST",
-      auth: "drreayy:4fe698ba5ae8736f6001def6a8be5e7d-us12",
+      auth: "drreayy:ac69d664b6550e13799874b27e65e687-us12",
     };
 
     // *** Requesting and posting inputs data to mailchimp ***
@@ -90,7 +90,7 @@ app.listen(process.env.PORT || 3000, function () {
 // const url = "https://us12.api.mailchimp.com/3.0/lists/9dedde677d";
 // const options = {
 //   method: "POST",
-//   auth: "drreayy:4fe698ba5ae8736f6001def6a8be5e7d-us12",
+//   auth: "drreayy:ac69d664b6550e13799874b27e65e687-us12",
 // };
 
 // const request = https.request(url, options, function (response) {
@@ -176,7 +176,7 @@ app.post("/", function (req, res) {
 });*/
 
 // Api Key
-//4fe698ba5ae8736f6001def6a8be5e7d-us12
+//ac69d664b6550e13799874b27e65e687-us12
 
 // Audience Id
 // 9dedde677d
