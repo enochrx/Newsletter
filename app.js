@@ -46,7 +46,7 @@ app.get("/", function (req, res) {
 
     const options = {
       method: "POST",
-      auth: "drreayy:4fe698ba5a8736f6001def6a8be5e7d-us12",
+      auth: "drreayy:4fe698ba5ae8736f6001def6a8be5e7d-us12",
     };
 
     // *** Requesting and posting inputs data to mailchimp ***
